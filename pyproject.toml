@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "nitr7gen"
+version = "0.1.0"
+description = "🖥️ Automated & Minimal Config for Windows"
+readme = "README.md"
+license = "MIT"
+authors = ["nitr7gen <nitr7gen@proton.me>"]
+homepage = "https://nitr7gen.pages.dev/.env"
+repository = "https://github.com/nitr7gen/.env"
+
+[tool.poetry.dependencies]
+
+python = "^3.8"
+fire = "~0.4.0"
+rich = "^12.5.1"
+plumbum = "^1.8.0"
+
+[tool.poetry.dev-dependencies]
+
+black = "~22.10.0"
+pylint = "~2.15.5"
+isort = "~5.10.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
