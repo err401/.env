@@ -64,3 +64,8 @@ extension = [
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode"
     ]
+
+[conda]
+
+[conda.setup]
+py_version = "^3.10.0"
