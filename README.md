@@ -1,1 +1,3 @@
-dotfiles/
+- ArchLinux
+- KaliLinux
+- Windows

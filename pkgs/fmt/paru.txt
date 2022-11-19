@@ -1,8 +1,0 @@
-# de - apps
-
-ulauncher
-phinger-cursors
-
-# apps - gui
-
-lite-xl-bin
