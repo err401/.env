@@ -1,4 +1,4 @@
-@depracted
+@deprecated
 
 new repo: [`url`](https://github.com/nitr7gen/dotfiles/)
 
